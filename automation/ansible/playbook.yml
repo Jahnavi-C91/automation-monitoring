@@ -1,0 +1,4 @@
+- name: Example Playbook
+  hosts: localhost
+  roles:
+    - example-role
